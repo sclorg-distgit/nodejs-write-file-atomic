@@ -1,0 +1,1 @@
+# nodejs-write-file-atomic
